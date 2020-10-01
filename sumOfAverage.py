@@ -8,5 +8,5 @@ for i in range(1, n+1):
 
 avg = total / n
 
-print("The Sum of first ",n," Natural Numbers is : ",total);
-print("The Average of first ",n," Natural Numbers is : ",avg);
+print("The Sum of first ",n," Natural Numbers is : ",total)
+print("The Average of first ",n," Natural Numbers is : ",avg)
